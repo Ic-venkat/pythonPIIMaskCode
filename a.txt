@@ -1,0 +1,15 @@
+Sample Input Text with Personal Data:
+
+Name: John Doe
+Identifier: 123456789
+Email: john.doe@example.com
+Phone: +1234567890
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at mauris risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam accumsan arcu non tortor lacinia, id varius velit vehicula. Sed at massa convallis, lobortis nisl sed, tempus nisl.
+
+Name: Jane Smith
+Identifier: 987654321
+Email: jane.smith@example.com
+Phone: +9876543210
+
+Duis et massa nec ipsum convallis fermentum id in turpis. Vivamus luctus lobortis arcu. Fusce auctor enim a turpis auctor, a hendrerit nibh egestas. Nullam imperdiet risus et odio congue, eget posuere ex posuere. Vestibulum lacinia leo id metus tincidunt, sit amet condimentum augue rutrum. Phasellus ut est ut leo sodales fringilla. Quisque non magna nunc. Ut venenatis magna a eros tincidunt, non fermentum orci luctus.
